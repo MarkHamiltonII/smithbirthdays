@@ -1,5 +1,3 @@
-"use server"
-
 import { SmithBirthday } from "../birthday.types";
 import birthdayData from "../data/birthdayData.json";
 import { getAge, getDaysToBirthday } from "../utils/date";
